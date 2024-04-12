@@ -1,2 +1,2 @@
 # humphrey-vue-project
- a test project
+ a mini vue project
